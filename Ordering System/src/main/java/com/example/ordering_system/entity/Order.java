@@ -1,6 +1,5 @@
 package com.example.ordering_system.entity;
 
-import com.example.ordering_system.entity.enums.OrderDetails;
 import lombok.*;
 
 import javax.persistence.*;
